@@ -26,7 +26,13 @@ Este repositorio tiene como objetivo desarrollar y publicar adendas independient
 
 Cada adenda contará con su propia identificación, historial de modificaciones y documentación de respaldo.
 
-**VR-001 — Protección del Pueblo Venezolano, Recuperación del Patrimonio Nacional y Condiciones Previas Obligatorias para la Reestructuración de la Deuda Pública.**
+| Adenda | Descripción | Documentos | Versión |
+|---|---|---|---|
+| VR-001 | Protección del Pueblo Venezolano, Recuperación del Patrimonio Nacional y Condiciones Previas Obligatorias para la Reestructuración de la Deuda Pública | [Español](addendums/VR-001/VR-001-ES.md) · [English](addendums/VR-001/VR-001-EN.md) | 1.0 |
+
+### Documentos originales de referencia
+
+- [Venezuela Renace — Programa Nacional para la Recuperación y la Prosperidad](references/README.md)
 
 ### Participación abierta
 
@@ -80,7 +86,13 @@ This repository seeks to develop and publish independent addendums to the Venezu
 
 Each addendum shall have its own identification, revision history and supporting documentation.
 
-**VR-001 — Protection of the Venezuelan People, Recovery of National Wealth and Mandatory Preconditions for Public Debt Restructuring.**
+| Addendum | Description | Documents | Version |
+|---|---|---|---|
+| VR-001 | Protection of the Venezuelan People, Recovery of National Wealth and Mandatory Preconditions for Public Debt Restructuring | [Español](addendums/VR-001/VR-001-ES.md) · [English](addendums/VR-001/VR-001-EN.md) | 1.0 |
+
+### Original reference documents
+
+- [Venezuela Renace — National Program for Recovery and Prosperity](references/README.md)
 
 ### Open participation
 
